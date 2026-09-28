@@ -1,7 +1,7 @@
 /* Mental Health Score Predictor - frontend logic (vanilla JS) */
 "use strict";
 
-const API_URL = "http://127.0.0.1:8000/predict";
+const API_URL = "https://mental-health-prediction-score-3.onrender.com";
 
 const form = document.getElementById("assessmentForm");
 const predictBtn = document.getElementById("predictBtn");
